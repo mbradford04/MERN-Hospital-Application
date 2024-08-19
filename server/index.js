@@ -12,6 +12,12 @@ app.use(cors());
 //define port
 const PORT = 3002
 
+const router = require("./Routes/patient-routes");  
+
+//localhost:3001/patient
+app.use("/patient", router)   
+
+
 
 
 //establish link to mongoDB Atlas Database
