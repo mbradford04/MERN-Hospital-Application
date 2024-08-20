@@ -1,4 +1,3 @@
-
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
@@ -14,7 +13,7 @@ const PORT = 3002
 
 const router = require("./Routes/patient-routes");  
 
-//localhost:3001/patient
+//localhost:3002/patient
 app.use("/patient", router)   
 
 
