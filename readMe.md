@@ -76,8 +76,14 @@ Create "Add Patient" component to create patient data:
 Reading information on card component showcasing patient data on "Patient Information" page.
 ![alt text](<Screenshot (184).png>)
 
-
 Updating of Patient Information:
+![Screenshot (185)](https://github.com/user-attachments/assets/eb966cf8-f167-40e3-ae96-a0e801bea279)
+![Screenshot (186)](https://github.com/user-attachments/assets/71496cd0-3a89-443c-a379-512b82269613)
+
+
+Deleting Patient Data: 
+![Screenshot (181)](https://github.com/user-attachments/assets/81f820ab-dc36-4c2f-9829-3dc4d0c8e6ce)
+
 
 
 
