@@ -18,8 +18,6 @@ const router = require("./Routes/patient-routes");
 app.use("/patient", router)   
 
 
-
-
 //establish link to mongoDB Atlas Database
 mongoose.connect("mongodb+srv://mbradford1s:Ray24Lewis$$@cluster0.qwihs.mongodb.net/MERN_Health").then(() => console.log("Connected To Database"))  
 .then(()=>console.log("Backend Server Listening on PORT " + PORT))
